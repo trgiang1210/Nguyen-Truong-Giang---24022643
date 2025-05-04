@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1745421709 source:d:\ltnc1\gamesnake\main.cpp
+	"Game.h"
+	"GameLogic.h"
+	<iostream>
+
+1745421709 source:d:\ltnc1\gamesnake\game.cpp
+	"Game.h"
+	"Texture.h"
+
+1745419969 d:\ltnc1\gamesnake\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+
+1744789679 source:d:\ltnc1\gamesnake\texture.cpp
+	"Texture.h"
+	"Game.h"
+
+1744789679 d:\ltnc1\gamesnake\texture.h
+	"Game.h"
+
+1744650369 source:d:\ltnc1\gamesnake\gameobject.cpp
+	"GameObject.h"
+	"Texture.h"
+	"Game.h"
+
+1744360642 d:\ltnc1\gamesnake\gameobject.h
+	"Game.h"
+
+1744652398 source:d:\ltnc1\gamesnake\map.cpp
+
+1744652398 d:\ltnc1\gamesnake\map.h
+
+1745424503 source:d:\ltnc1\gamesnake\gamelogic.cpp
+	"GameLogic.h"
+	"Game.h"
+
+1745136142 d:\ltnc1\gamesnake\gamelogic.h
+	"Game.h"
+
